@@ -1,2 +1,6 @@
-# bank-customer-churn-analysis
-Customer churn analysis of 10,000 bank customers using Excel 
+bank-customer-churn-analysis
+
+ Analisi dell'abbandono dei clienti bancari con Excel, tabelle pivot e dashboard.
+
+
+ 
