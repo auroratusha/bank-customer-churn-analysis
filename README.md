@@ -41,7 +41,7 @@ Applicare strumenti di analisi e visualizzazione dei dati per trasformare un dat
 
 Dashboard
 
-[bank-customer-churnanalysis/dashboard-principale.png]
+[bank-customer-churnanalysis / dashboard-principale.png]
 
 
 
