@@ -39,6 +39,10 @@ Obiettivo del progetto
 
 Applicare strumenti di analisi e visualizzazione dei dati per trasformare un dataset in informazioni sintetiche e utili a comprendere i fenomeni di abbandono della clientela.
 
+Dashboard
+
+[Dashboard del progetto Bank Customer Churn Analysis](dasboard-principale.png) 
+
 
 
 
