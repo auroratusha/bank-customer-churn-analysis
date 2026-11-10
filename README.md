@@ -44,4 +44,3 @@ Dashboard
 ![Dashboard principale](Dashboard.png)
 
 ![Tabella pivot](Pivot_Table.png)
-
